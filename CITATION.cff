@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this public companion when reusing the method materials."
+title: "Authority Architecture System: Public Operational Companion"
+type: software
+version: 1.0.0
+date-released: 2026-11-01
+authors:
+  - family-names: Teto
+    given-names: Mohammed
+url: "https://mohammedteto.com/method/"
+repository-code: "https://github.com/mhdteto/authority-architecture-system"
+license: CC-BY-4.0

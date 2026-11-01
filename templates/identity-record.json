@@ -1,0 +1,11 @@
+{
+  "entity_id": "example-meridian",
+  "entity_type": "organization",
+  "name": "Example Meridian Organization",
+  "aliases": {
+    "name": [
+      "Example Meridian"
+    ]
+  },
+  "description": "Fictional organization used only to demonstrate the template."
+}
