@@ -2,6 +2,11 @@
 
 # Authority Architecture System
 
+[![Validation](https://github.com/mhdteto/authority-architecture-system/actions/workflows/validate.yml/badge.svg?branch=main)](https://github.com/mhdteto/authority-architecture-system/actions/workflows/validate.yml)
+[![Fictional workflow](https://github.com/mhdteto/authority-architecture-system/actions/workflows/connected-demo.yml/badge.svg?branch=main)](https://github.com/mhdteto/authority-architecture-system/actions/workflows/connected-demo.yml)
+![Python CI](https://img.shields.io/badge/Python%20CI-3.12-36d9ee?labelColor=081321)
+
+
 **A public operational companion to Mohammed Teto's method for leaders and organizations.**
 
 Connect a clear identity, substantiated claims and credible sources with the way an entity is found and described in web search and AI answers. This repository provides working templates and decision rules for that process.
@@ -14,6 +19,21 @@ Connect a clear identity, substantiated claims and credible sources with the way
   <a href="https://mohammedteto.com/method/"><img src=".github/readme-assets/method.svg" width="148" height="36" alt="The method" /></a>
   <a href="https://mohammedteto.com/research/"><img src=".github/readme-assets/research.svg" width="148" height="36" alt="Research" /></a>
 </p>
+
+<!-- suite-navigation -->
+## Start here: this repository in the workflow
+
+**Your task:** Start with the six-layer method.
+
+[Method →](https://github.com/mhdteto/authority-architecture-system) · [Audit →](https://github.com/mhdteto/search-ai-discoverability-checker) · [Structure →](https://github.com/mhdteto/entity-structured-data-kit) · [Measure →](https://github.com/mhdteto/ai-citation-tracker)
+
+**Next step:** [executive-authority-playbook](https://github.com/mhdteto/executive-authority-playbook) — Adapt the plan to a leader; then use the technical tools below.
+
+**Try it:** [complete fictional workflow](https://github.com/mhdteto/authority-architecture-system/tree/main/examples/fictional-workflow). All scenario records and engine answers are invented; generated reports are real CLI output.
+
+**Python CI:** 3.12. The badge links to the real workflow; it describes automated checks, not ranking, factual accuracy or AI visibility.
+[Map of all eight resources](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/tool-map.md) · [Open an issue](https://github.com/mhdteto/authority-architecture-system/issues/new/choose)
+<!-- /suite-navigation -->
 
 ## Start here
 
