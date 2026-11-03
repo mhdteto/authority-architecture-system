@@ -6,4 +6,4 @@ Except for files explicitly marked otherwise, the documentation, templates and o
 
 You may share and adapt these materials, including commercially, subject to the license terms. Give appropriate credit to Mohammed Teto, link to the repository and license, and indicate changes. Attribution must not suggest endorsement. No warranties are provided.
 
-The complete governing license is available at https://creativecommons.org/licenses/by/4.0/legalcode.en . This notice is a summary and does not replace that legal text. The validation script in tools/ is separately MIT licensed under LICENSE-CODE.
+The complete governing license is available at https://creativecommons.org/licenses/by/4.0/legalcode.en . This notice is a summary and does not replace that legal text. Python scripts in tools/ and case-studies/mohammedteto-com/ are separately MIT licensed under LICENSE-CODE. Bundled source snapshots retain their included license notices.

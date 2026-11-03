@@ -21,6 +21,14 @@ Connect a clear identity, substantiated claims and credible sources with the way
 </p>
 
 <!-- suite-navigation -->
+## See the workflow in action
+
+[![Recorded explorer: separate citation groups, French/France filter and CSV export](.github/readme-assets/explorer-walkthrough.gif)](https://mhdteto.github.io/authority-architecture-system/#citations)
+
+Actual browser capture; fictional teaching observations. Plays once. [Static screenshot](.github/readme-assets/explorer-static.png) · [Text walkthrough and actual exported sample](https://github.com/mhdteto/authority-architecture-system/blob/main/docs/explorer-walkthrough.md).
+
+[Start your own audit](https://github.com/mhdteto/search-ai-audit-starter) · [Use the GitHub Action](https://github.com/mhdteto/search-ai-audit-action) · [Read the real first-party baseline](https://github.com/mhdteto/authority-architecture-system/tree/main/case-studies/mohammedteto-com).
+
 ## Try it in your browser
 
 [**Open the interactive Authority Explorer →**](https://mhdteto.github.io/authority-architecture-system/)
@@ -98,4 +106,4 @@ The website explains the advisory practice; this repository provides reusable pu
 
 ## License and contribution
 
-Documentation, templates and original artwork: [CC BY 4.0](LICENSE.md), with attribution to Mohammed Teto and a link to this repository. The repository validation script is [MIT licensed](LICENSE-CODE). [Contributions](CONTRIBUTING.md) should include sources and preserve the distinction between observed, inferred, proposed and unknown.
+Documentation, templates and original artwork: [CC BY 4.0](LICENSE.md), with attribution to Mohammed Teto and a link to this repository. Repository validation and case-collection Python scripts are [MIT licensed](LICENSE-CODE). [Contributions](CONTRIBUTING.md) should include sources and preserve the distinction between observed, inferred, proposed and unknown.

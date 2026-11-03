@@ -1,0 +1,3 @@
+"answer_id","engine","model","interface","language","market","collected_on","answer_text","citation_count","citation_urls"
+"fr-1","Fictional Atlas","demo-1","web","fr","France","2026-10-25","Réponse entièrement fictive : une source est citée.","1","[""https://example.net/cedar-notes""]"
+"fr-2","Fictional Atlas","demo-1","web","fr","France","2026-10-25","Réponse entièrement fictive : aucune citation explicite.","0","[]"

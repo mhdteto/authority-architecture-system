@@ -1,0 +1,73 @@
+{
+  "home": {
+    "url": "https://mohammedteto.com/",
+    "collected_at": "2026-11-03T18:53:20.428780+00:00",
+    "html_lang": "en",
+    "titles": [
+      "AI Reputation & Executive Authority | Mohammed Teto"
+    ],
+    "descriptions": [
+      "AI reputation and executive authority for leaders and organizations. English and French advisory, with a private assessment from $4,500 USD."
+    ],
+    "h1": [
+      "AI reputation and executive authority, built on evidence."
+    ],
+    "hreflang": [
+      {
+        "language": "en",
+        "url": "https://mohammedteto.com/"
+      },
+      {
+        "language": "fr",
+        "url": "https://mohammedteto.com/fr/"
+      },
+      {
+        "language": "x-default",
+        "url": "https://mohammedteto.com/"
+      }
+    ]
+  },
+  "method": {
+    "url": "https://mohammedteto.com/method/",
+    "collected_at": "2026-11-03T18:53:20.428780+00:00",
+    "html_lang": "en",
+    "titles": [
+      "The Authority Architecture System | Mohammed Teto"
+    ],
+    "descriptions": [
+      "The Authority Architecture System: six layers that turn fragmented digital signals into a coherent, measurable authority footprint in search and AI."
+    ],
+    "h1": [
+      "Authority is built as a system."
+    ],
+    "hreflang": [
+      {
+        "language": "en",
+        "url": "https://mohammedteto.com/method/"
+      },
+      {
+        "language": "fr",
+        "url": "https://mohammedteto.com/fr/methode/"
+      },
+      {
+        "language": "x-default",
+        "url": "https://mohammedteto.com/method/"
+      }
+    ]
+  },
+  "tools": {
+    "url": "https://mohammedteto.com/open-source-tools/",
+    "collected_at": "2026-11-03T18:53:20.428780+00:00",
+    "html_lang": "en",
+    "titles": [
+      "Open-source SEO & AI Reputation Tools | Mohammed Teto"
+    ],
+    "descriptions": [
+      "Open-source tools for technical SEO, entity consistency, evidence mapping, JSON-LD and explicit AI citations. Explore a reproducible fictional demonstration."
+    ],
+    "h1": [
+      "Open-source tools for search & AI reputation."
+    ],
+    "hreflang": []
+  }
+}

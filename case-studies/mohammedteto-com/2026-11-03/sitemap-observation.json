@@ -1,0 +1,11 @@
+{
+  "https://mohammedteto.com/sitemap.xml": {
+    "root": "sitemapindex",
+    "locations": [
+      "https://mohammedteto.com/sitemap-core.xml",
+      "https://mohammedteto.com/sitemap-expertise.xml",
+      "https://mohammedteto.com/sitemap-markets.xml",
+      "https://mohammedteto.com/sitemap-research.xml"
+    ]
+  }
+}

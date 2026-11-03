@@ -1,0 +1,834 @@
+{
+  "schema_version": 1,
+  "mode": "observational",
+  "input_url": "https://mohammedteto.com/method/",
+  "collected_at": "2026-11-03T18:53:20.428780+00:00",
+  "limits": {
+    "resources": 3,
+    "http_requests": 12,
+    "redirects_per_resource": 3,
+    "body_bytes_per_response": 1048576,
+    "dns_wait_seconds": 5,
+    "request_budget_seconds": 5,
+    "internal_link_sample": 20
+  },
+  "scope": "One page, its origin robots.txt, and at most one same-origin sitemap candidate. Redirects bounded to three per resource.",
+  "interpretation": "HTTP success, directives and markup do not establish indexing, ranking, AI retrieval or citations.",
+  "page": {
+    "url": "https://mohammedteto.com/method/",
+    "status": 200,
+    "redirect_chain": [
+      {
+        "url": "https://mohammedteto.com/method/",
+        "status": 200
+      }
+    ],
+    "headers": {
+      "content-type": "text/html; charset=UTF-8",
+      "content-length": "23772"
+    },
+    "meta_robots": [
+      "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+    ],
+    "canonicals": [
+      {
+        "declared": "https://mohammedteto.com/method/",
+        "resolved": "https://mohammedteto.com/method/",
+        "valid_http_url": true
+      }
+    ],
+    "internal_links": [
+      "https://mohammedteto.com/method/",
+      "https://mohammedteto.com/",
+      "https://mohammedteto.com/leaders/",
+      "https://mohammedteto.com/organizations/",
+      "https://mohammedteto.com/ai-reputation/",
+      "https://mohammedteto.com/ai-visibility/",
+      "https://mohammedteto.com/insights/",
+      "https://mohammedteto.com/fr/methode/",
+      "https://mohammedteto.com/private-assessment/",
+      "https://mohammedteto.com/about/",
+      "https://mohammedteto.com/ai-reputation-intelligence/",
+      "https://mohammedteto.com/investment/",
+      "https://mohammedteto.com/research/",
+      "https://mohammedteto.com/audiences/",
+      "https://mohammedteto.com/compare/",
+      "https://mohammedteto.com/problems/",
+      "https://mohammedteto.com/platforms/",
+      "https://mohammedteto.com/markets/",
+      "https://mohammedteto.com/glossary/",
+      "https://mohammedteto.com/legal-notice/"
+    ],
+    "json_ld_blocks": 1,
+    "json_ld_invalid_blocks": 0,
+    "json_ld_types": [
+      "Answer",
+      "BreadcrumbList",
+      "FAQPage",
+      "ImageObject",
+      "ListItem",
+      "Person",
+      "Question",
+      "WebPage",
+      "WebSite"
+    ],
+    "analysis": "HTML observations only",
+    "base_element_handling": "Links resolve against final page URL; HTML base elements are not applied."
+  },
+  "robots": {
+    "url": "https://mohammedteto.com/robots.txt",
+    "status": 200,
+    "redirect_chain": [
+      {
+        "url": "https://mohammedteto.com/robots.txt",
+        "status": 200
+      }
+    ],
+    "headers": {
+      "content-type": "text/plain; charset=UTF-8",
+      "content-length": "3416"
+    },
+    "availability": "available",
+    "groups": [
+      {
+        "user_agents": [
+          "Googlebot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Googlebot-Image"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Bingbot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "2"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Slurp"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "DuckDuckBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Baiduspider"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "YandexBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "facebookexternalhit"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "LinkedInBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Twitterbot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "GPTBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "ChatGPT-User"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "OAI-SearchBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "ClaudeBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Claude-Web"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "anthropic-ai"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "PerplexityBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Google-Extended"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Googlebot-News"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "meta-externalagent"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "FacebookBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "msnbot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "BingPreview"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Applebot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Applebot-Extended"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "cohere-ai"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "YouBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "MistralBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Grok"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "CCBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Diffbot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Claude-SearchBot"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          },
+          {
+            "directive": "crawl-delay",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Claude-User"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "Perplexity-User"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      },
+      {
+        "user_agents": [
+          "*"
+        ],
+        "rules": [
+          {
+            "directive": "allow",
+            "value": "/"
+          }
+        ]
+      }
+    ],
+    "directives": [
+      {
+        "directive": "user-agent",
+        "value": "Googlebot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "1"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Googlebot-Image"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Bingbot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "2"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Slurp"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "DuckDuckBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Baiduspider"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "YandexBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "facebookexternalhit"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "LinkedInBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Twitterbot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "GPTBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "1"
+      },
+      {
+        "directive": "user-agent",
+        "value": "ChatGPT-User"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "OAI-SearchBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "ClaudeBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "1"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Claude-Web"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "anthropic-ai"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "PerplexityBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "1"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Google-Extended"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Googlebot-News"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "meta-externalagent"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "FacebookBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "msnbot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "BingPreview"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Applebot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Applebot-Extended"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "cohere-ai"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "YouBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "MistralBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Grok"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "CCBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Diffbot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Claude-SearchBot"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "crawl-delay",
+        "value": "1"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Claude-User"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "Perplexity-User"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "user-agent",
+        "value": "*"
+      },
+      {
+        "directive": "allow",
+        "value": "/"
+      },
+      {
+        "directive": "sitemap",
+        "value": "https://mohammedteto.com/sitemap.xml"
+      }
+    ],
+    "sitemaps": [
+      "https://mohammedteto.com/sitemap.xml"
+    ],
+    "interpretation": "Manual review required; no engine-specific allow/deny decision is calculated."
+  },
+  "sitemap": {
+    "url": "https://mohammedteto.com/sitemap.xml",
+    "status": 200,
+    "redirect_chain": [
+      {
+        "url": "https://mohammedteto.com/sitemap.xml",
+        "status": 200
+      }
+    ],
+    "headers": {
+      "content-type": "application/xml",
+      "content-length": "598"
+    },
+    "note": "Response observed only; XML validity, listed URLs and sitemap index children are not evaluated."
+  },
+  "transport": "live public HTTP(S)"
+}
