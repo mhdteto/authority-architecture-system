@@ -2,6 +2,11 @@
   "blank_issues_enabled": false,
   "contact_links": [
     {
+      "name": "Community Q&A and maintainer FAQ",
+      "url": "https://github.com/mhdteto/authority-architecture-system/discussions",
+      "about": "Ask interpretation questions, read the FAQ or discuss an open workflow idea."
+    },
+    {
       "name": "How the tools fit together",
       "url": "https://github.com/mhdteto/authority-architecture-system",
       "about": "Start with the method and choose the relevant tool."

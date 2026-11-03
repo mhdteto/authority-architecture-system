@@ -21,6 +21,16 @@ Connect a clear identity, substantiated claims and credible sources with the way
 </p>
 
 <!-- suite-navigation -->
+## Try it in your browser
+
+[**Open the interactive Authority Explorer →**](https://mhdteto.github.io/authority-architecture-system/)
+
+Filter the existing fictional identity, evidence and citation reports without installing Python. Explore the separate real public-source catalogue with its dated notes. No inputs are uploaded and no AI provider is queried.
+
+[Three business tutorials](tutorials/README.md) · [Public roadmap](https://github.com/users/mhdteto/projects/1) · [Community and FAQ](https://github.com/mhdteto/authority-architecture-system/discussions) · [Maintainer FAQ in the repository](docs/community-faq.md)
+
+[![Explorer build and deployment](https://github.com/mhdteto/authority-architecture-system/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/mhdteto/authority-architecture-system/actions/workflows/pages.yml)
+
 ## Start here: this repository in the workflow
 
 **Your task:** Start with the six-layer method.

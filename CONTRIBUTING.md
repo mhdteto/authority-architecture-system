@@ -13,3 +13,7 @@ Run `python3 tools/validate.py` before submitting a pull request. By contributin
 - [Source or methodology proposal](https://github.com/mhdteto/authority-architecture-system/issues/new?template=source_proposal.yml): provide the specific claim, publisher, dates, market, relationship and limits.
 
 Run the documented validation and preserve the distinction between observed, supplied, inferred and unknown. See the [connected fictional workflow](https://github.com/mhdteto/authority-architecture-system/tree/main/examples/fictional-workflow) for an example.
+
+## Questions and community
+
+Use [Discussions](https://github.com/mhdteto/authority-architecture-system/discussions) for interpretation, Ideas and documented Show and tell. Read the [maintainer FAQ](docs/community-faq.md) and [business tutorials](tutorials/README.md) before opening a scoped issue. Proposed work is tracked in the [public roadmap](https://github.com/users/mhdteto/projects/1).
