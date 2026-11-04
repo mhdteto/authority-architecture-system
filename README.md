@@ -35,7 +35,7 @@ Actual browser capture; fictional teaching observations. Plays once. [Static scr
 
 Filter the existing fictional identity, evidence and citation reports without installing Python. Explore the separate real public-source catalogue with its dated notes. No inputs are uploaded and no AI provider is queried.
 
-[Three business tutorials](tutorials/README.md) · [Public roadmap](https://github.com/users/mhdteto/projects/1) · [Community and FAQ](https://github.com/mhdteto/authority-architecture-system/discussions) · [Maintainer FAQ in the repository](docs/community-faq.md)
+[Français — démarrage rapide](https://github.com/mhdteto/search-ai-audit-starter/blob/main/docs/QUICKSTART.fr.md) · [Three business tutorials](tutorials/README.md) · [Public roadmap](https://github.com/users/mhdteto/projects/1) · [Community and FAQ](https://github.com/mhdteto/authority-architecture-system/discussions) · [Maintainer FAQ in the repository](docs/community-faq.md)
 
 [![Explorer build and deployment](https://github.com/mhdteto/authority-architecture-system/actions/workflows/pages.yml/badge.svg?branch=main)](https://github.com/mhdteto/authority-architecture-system/actions/workflows/pages.yml)
 
