@@ -29,6 +29,8 @@ Actual browser capture; fictional teaching observations. Plays once. [Static scr
 
 [Start your own audit](https://github.com/mhdteto/search-ai-audit-starter) · [Use the GitHub Action](https://github.com/mhdteto/search-ai-audit-action) · [Read the real first-party baseline](https://github.com/mhdteto/authority-architecture-system/tree/main/case-studies/mohammedteto-com).
 
+[Try the 10-minute audit](https://github.com/mhdteto/authority-architecture-system/discussions/10) · [Follow Mohammed Teto on GitHub](https://github.com/mhdteto) for new reproducible audits and examples.
+
 ## Try it in your browser
 
 [**Open the interactive Authority Explorer →**](https://mhdteto.github.io/authority-architecture-system/)
