@@ -5,7 +5,7 @@ Each tutorial begins with a decision, uses a clearly fictional example and ends 
 1. [Review an executive's identity](executive-identity.md): approved records, aliases, mismatches and missing fields.
 2. [Review an organization's evidence](organization-evidence.md): self-published material, unreviewed sources and unsupported claims.
 3. [Interpret multilingual citations](multilingual-citations.md): explicit URLs, denominators and incompatible observation contexts.
-4. [Review an expertise claim without code](claim-evidence-review.md): a fictional worked example and a reusable editorial worksheet.
+4. [Review an expertise claim without code](../docs/claim-evidence-review.md): a fictional worked example and a reusable editorial worksheet.
 
 To reproduce the samples, download this repository's Code → Download ZIP, extract it, and open a terminal in `examples/fictional-workflow/`. The exact commands below use its frozen source scripts. Python 3.10+ is recommended; no packages, accounts or API keys. Use a fresh extracted copy because the commands replace the supplied sample reports.
 
